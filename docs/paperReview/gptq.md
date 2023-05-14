@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GPTQ A to Z 1
+title: GPTQ A to Z
 parent: Paper Review
 nav_order: 1
 ---
